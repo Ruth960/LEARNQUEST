@@ -5,7 +5,7 @@ function App() {
  
 
   return (
-    <div>
+    <div style={{backgroundColor: 'white', minHeight: '100vh', width:'100%'}}>
       <HomePage />
       
     </div>
