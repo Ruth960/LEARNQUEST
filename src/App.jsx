@@ -5,7 +5,7 @@ function App() {
  
 
   return (
-    <div style={{backgroundColor: 'white', minHeight: '100vh', width:'100%'}}>
+    <div className={"bg-blue-50 w-full h-full flex flex-col items-center justify-start"}>
       <HomePage />
       
     </div>
